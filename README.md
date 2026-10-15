@@ -30,6 +30,13 @@ The dataset contains online retail transactions from December 2010 to December 2
 - Some customers have unusually high transaction values relative to their invoice counts.
 - Transaction anomalies make clear KPI definitions and data-quality checks important.
 
+## Dashboard Preview
+
+![Excel Sales Dashboard](dashboard.png)
+
+The interactive charts and underlying analysis are available in
+[Online_Retail_Dashboard.xlsx](Online_Retail_Dashboard.xlsx).
+
 ## Business Recommendations
 - Investigate seasonal demand before peak trading periods.
 - Review international market opportunities alongside shipping costs and customer retention.
