@@ -9,7 +9,10 @@ This project analyzes an online retail transaction dataset using MySQL and Micro
 - SQL for data cleaning, aggregation, and analysis
 
 ## Dataset
-The dataset contains online retail transactions from December 2010 to December 2011, including invoice numbers, product codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and countries.
+This project uses the Online Retail dataset, sourced from the UCI Machine Learning Repository 
+**LINK**: https://archive.ics.uci.edu/dataset/352/online+retail.
+
+The dataset contains online retail transactions from December 2010 to December 2011, including invoice numbers, product codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and countries. It was used to analyze sales trends, product performance, customer purchasing patterns, and international markets.
 
 ## Work Completed
 - Imported and validated the retail dataset in MySQL.
